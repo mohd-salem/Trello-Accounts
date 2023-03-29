@@ -70,9 +70,9 @@ def connect():
 
     sleep(5)
 
-    driver.get('https://trello.com/b/asIHyf4j/تحاليل-2022')
+    driver.get('url')
 
-    print("Going to Dr. Ahmed board ")
+    print("Going to board ")
     mechanism()
 
 
